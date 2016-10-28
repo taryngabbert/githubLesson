@@ -55,4 +55,9 @@ This may not make complete sense now, but know that if you encounter this proble
 2. Don't let your master get behind... pull when people merge...
 **Don't go lone wolf**
 3. Do not, do not, do not, **ever** merge your own branch.
-4. Communication, keep it open. Let people know when you may be working on something that could create a conflict. 
+4. Communication, keep it open. Let people know when you may be working on something that could create a conflict.
+
+
+### MERGE CONFLICTS
+
+Joe will demo.
