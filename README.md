@@ -60,4 +60,4 @@ This may not make complete sense now, but know that if you encounter this proble
 
 ### MERGE CONFLICTS
 
-Joe will demo.
+Joe will demo. Joe is not cool.
