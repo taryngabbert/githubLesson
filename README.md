@@ -23,5 +23,14 @@ NOW, LET'S CREATE A BRANCH...
 
 You can always check what branch your on by checking with the command ``git branch``
 
-You will make all of your changes in your branch. You will want to make very component based branches. So, if you're creating a navBar create a branch called navBar complete it, and then **git add, git commit**
-hi
+You will make all of your changes in your branch. You will want to make very component based branches. So, if you're creating a navBar create a branch called navBar complete it, and then **git add, git commit** and then ``git push origin [branchName]``...
+
+#### Compare and Pull Request
+
+Want to get your changes from your branch on the master? Time to go to github. There you can compare the differences between the branches and do a pull request.
+
+SOMEONE ELSE FROM YOUR GROUP SHOULD LOOK AT THE PULL AND DECIDE WHETHER OR NOT TO ALLOW THE MERGE.
+
+**YOU SHOULD NEVER ACCEPT YOUR OWN MERGE REQUEST. PERIOD. END. OF. STORY**
+
+#### GIT FETCH
